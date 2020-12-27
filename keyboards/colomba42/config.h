@@ -25,6 +25,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER   0x0001
 #define MANUFACTURER ynak
 #define PRODUCT      colomba42
+#define DESCRIPTION A split keyboard with 42 keys
+
 
 /* key matrix size */
 // Rows are doubled-up
@@ -51,7 +53,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /*
  * Split Keyboard specific options, make sure you have 'SPLIT_KEYBOARD = yes' in your rules.mk, and define SOFT_SERIAL_PIN.
  */
-#define SOFT_SERIAL_PIN D0  // or D1, D2, D3, E6
+#define SOFT_SERIAL_PIN D2  // or D1, D2, D3, E6
 
 #define RGB_DI_PIN D3
 #define RGBLIGHT_ANIMATIONS
