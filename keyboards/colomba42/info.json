@@ -1,7 +1,7 @@
 {
     "keyboard_name": "colomba42",
     "url": "",
-    "maintainer": "ynak",
+    "maintainer": "ynak-keyboard",
     "width": 15,
     "height": 4.7,
     "layouts": {
@@ -49,13 +49,13 @@
                 {"label":"/", "x":13, "y":2.3},
                 {"label":"\\", "x":14, "y":2.3},
 
-                {"label":"Alt", "x":4, "y":3.7},
-                {"label":"Space", "x":6, "y":3.2, "h":1.5},
-                {"label":"Lower", "x":5, "y":3.7},
+                {"label":"Lower", "x":4.25, "y":3.7},
+                {"label":"Space", "x":5.25, "y":3.2, "h":1.5},
+                {"label":"Alt", "x":6.25, "y":3.7},
 
-                {"label":"Raise", "x":9, "y":3.7},
-                {"label":"Enter", "x":8, "y":3.2, "h":1.5},
-                {"label":"BackSpace", "x":10, "y":3.7}
+                {"label":"BackSpace", "x":7.75, "y":3.7},
+                {"label":"Enter", "x":8.75, "y":3.2, "h":1.5},
+                {"label":"Raise", "x":9.75, "y":3.7}
               ]
         }
     }

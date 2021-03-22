@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [ynak](https://github.com/ynak-keyboard)
+* Keyboard Maintainer: [ynak-keyboard](https://github.com/ynak-keyboard)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
